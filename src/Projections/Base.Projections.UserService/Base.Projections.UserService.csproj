@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Base.Projections.User-BD7682C6-874F-4F70-A7B1-9F8C42A67F8E</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+  </ItemGroup>
+</Project>
